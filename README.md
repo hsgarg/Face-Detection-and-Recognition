@@ -12,12 +12,13 @@ This Project serves 3 major functionalities:
 
 ## Getting Started
 
-* Clone the Repository 
+Clone the Repository and then  
 * Open the terminal in the Project Folder and then
   * For Face Detection
-    ```
-    python face_detection.py
-    ```
+  ```
+  python face_detection.py
+    
+   ```
    * For Real Time Data Generation
     ```
     python realtime_data_generation.py
