@@ -8,7 +8,7 @@ This Project serves 3 major functionalities:
 <img src="images1/data_gen.jpeg" width="300">
 
 * RECOGNISE Face Using KNN Classification Algorithm .
-<img src="images/Face_recog.png" width="300">
+<img src="images1/Face_recog.png" width="300">
 
 ## Getting Started
 
