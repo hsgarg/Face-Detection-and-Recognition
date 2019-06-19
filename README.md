@@ -27,6 +27,6 @@ Clone the Repository, Open the terminal in the Project Folder and then
    ```
    
 ## Project Implementation Video on Youtube
-(https://www.youtube.com/watch?v=8Gasjferv2M)
+Youtube [Video Link](https://www.youtube.com/watch?v=8Gasjferv2M)
 
 
