@@ -14,14 +14,17 @@ This Project serves 3 major functionalities:
 
 Clone the Repository, Open the terminal in the Project Folder and then
   * For Face Detection
+  
   ```
   python face_detection.py
   ```
    * For Real Time Data Generation
+   
     ```
     python realtime_data_generation.py
     ```
    * For Face Recognition
+   
    ```
     python face_recognition_knn.py
    ```
