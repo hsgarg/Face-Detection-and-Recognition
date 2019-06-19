@@ -2,7 +2,7 @@
 
 This Project serves 3 major functionalities:
 * Face Detection : By using OpenCV and HaarCascades
-<img src="images/get_repos.jpeg" width="250">
+<img src="images1/face_detection2.png" width="250">
 
 * Generating Real Time Training Data by Taking Selfies from Webcam .
 <img src="images/get_issues.jpeg" width="250">
