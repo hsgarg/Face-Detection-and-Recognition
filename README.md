@@ -24,15 +24,9 @@ This Project serves 3 major functionalities:
     ```
    * For Face Recognition
    ```
-   python face_recognition_knn.py
+    python face_recognition_knn.py
+   ```
 
-## Built With
-
-* [Flask](http://flask.pocoo.org/docs/1.0/)  
-* [Twilio](https://www.twilio.com/docs/) 
-* [Dialogflow](https://dialogflow.com/docs/getting-started) 
-* [Firebase](https://firebase.google.com/docs)
-* [github3.py](https://github.com/github3py)
 
 
 
