@@ -20,9 +20,9 @@ Clone the Repository, Open the terminal in the Project Folder and then
   ```
   * For Real Time Data Generation
    
-    ```
-    python realtime_data_generation.py
-    ```
+   ```
+   python realtime_data_generation.py
+   ```
   * For Face Recognition
    
    ```
