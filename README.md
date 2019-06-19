@@ -1,4 +1,4 @@
-# Face-Detection:mag:-and-Recognition :performing_arts:
+# Face-Detection:mag:-and-Recognition:performing_arts:
 
 This Project serves 3 major functionalities:
 * Face Detection : By using **OpenCV** and **Haar Cascades**
