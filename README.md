@@ -18,12 +18,12 @@ Clone the Repository, Open the terminal in the Project Folder and then
   ```
   python face_detection.py
   ```
-   * For Real Time Data Generation
+  * For Real Time Data Generation
    
     ```
     python realtime_data_generation.py
     ```
-   * For Face Recognition
+  * For Face Recognition
    
    ```
     python face_recognition_knn.py
