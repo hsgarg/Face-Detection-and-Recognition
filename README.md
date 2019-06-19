@@ -2,13 +2,13 @@
 
 This Project serves 3 major functionalities:
 * Face Detection : By using **OpenCV** and **Haar Cascades**
-<img src="images1/face_detection2.png" width="300">
+<img src="images1/face_detection2.png" width="400">
 
 * Generating Real Time Training Data by Taking Selfies from Webcam .
-<img src="images1/data_gen.jpeg" width="300">
+<img src="images1/data_gen.jpeg" width="400">
 
 * RECOGNISE Face Using **KNN Classification Algorithm** .
-<img src="images1/Face_recog.png" width="300">
+<img src="images1/Face_recog.png" width="400">
 
 ## Getting Started
 
