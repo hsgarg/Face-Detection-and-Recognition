@@ -12,13 +12,11 @@ This Project serves 3 major functionalities:
 
 ## Getting Started
 
-Clone the Repository and then  
-* Open the terminal in the Project Folder and then
+Clone the Repository, Open the terminal in the Project Folder and then
   * For Face Detection
   ```
   python face_detection.py
-    
-   ```
+  ```
    * For Real Time Data Generation
     ```
     python realtime_data_generation.py
@@ -27,7 +25,8 @@ Clone the Repository and then
    ```
     python face_recognition_knn.py
    ```
-
-
+   
+## Project Implementation Video on Youtube
+(https://www.youtube.com/watch?v=8Gasjferv2M)
 
 
