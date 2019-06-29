@@ -1,4 +1,10 @@
 # Face-Detection-and-Recognition:mag::performing_arts: 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![star this repo](http://githubbadges.com/star.svg?user=harshgarg27&repo=Face-Detection-and-Recognition&style=default)](https://github.com/harshgarg27/Face-Detection-and-Recognition)
+[![fork this repo](http://githubbadges.com/fork.svg?user=Face-Detection-and-Recognition&style=default)](https://github.com/harshgarg27/Face-Detection-and-Recognition/fork)
+
 
 This Project serves 3 major functionalities:
 * Face Detection : By using **OpenCV** and **Haar Cascades**
